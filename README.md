@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kustlik
-- 👀 I’m interested in Games, Programming, Photography
+- 👀 I’m interested in Games, Programming, 3D Modelling and Animation, Photography
 - 🌱 I’m currently learning C#, Unity, Blender
 
 <!---
